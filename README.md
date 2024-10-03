@@ -25,5 +25,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hebertesteves14.sp@gmail.com)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hebertesteves)
 
-
-![snake animation](https://github.com/hebertesteves/hebertesteves/blob/output/github-contribution-grid-snake2.svg)
