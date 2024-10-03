@@ -26,4 +26,4 @@
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hebertesteves)
 
 
-![Snake animation](https://github.com/hebertesteves/hebertesteves/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/hebertesteves/hebertesteves/blob/output/github-contribution-grid-snake2.svg)
