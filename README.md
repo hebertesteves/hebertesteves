@@ -1,9 +1,10 @@
 ## Olá, meu nome é Hebert Esteves!
 
-- 🔭 Estou em busca de um estágio onde possa desenvolver minhas habilidades e crescer na área de tecnologia. Meu objetivo é conquistar uma vaga como Desenvolvedor Backend Júnior.
-- 🌱 Atualmente, estou estudando JavaScript e Node.js para me aperfeiçoar como desenvolvedor backend e estar preparado para as demandas do mercado.
+- 🔭 Atuando como estagiário na área de Autorizações de Cartões no Bradesco, foco na construção de indicadores de performance e análise de dados com Excel, SAS e Power BI para otimizar a experiência do usuário e a taxa de aprovação de cartões.
+- 🚀 Meu objetivo é conquistar uma vaga como Desenvolvedor Backend Júnior, onde possa aplicar e aprimorar meus conhecimentos técnicos.
+- 🌱 Estou estudando JavaScript e Node.js para me especializar no desenvolvimento backend e estar preparado para as demandas do mercado.
 - 😄 Pronome: Ele/Dele
-- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas na FECAP, com formação técnica pela Etec Raposo Tavares, onde liderei o desenvolvimento de um sistema para um projeto social utilizando HTML, CSS, JavaScript, PHP e MySQL. Tenho sólida experiência em desenvolvimento web, banco de dados e integração de hardware com ESP32. 
+- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas na FECAP, com formação técnica pela Etec Raposo Tavares, onde liderei o desenvolvimento de um sistema para um projeto social utilizando HTML, CSS, JavaScript, PHP e MySQL. Tenho sólida experiência em desenvolvimento web, banco de dados e integração de hardware com ESP32.
 
 ![hebertesteves GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertesteves&show_icons=true&theme=dark&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertesteves&layout=compact&theme=dark&cache_seconds=86400)
