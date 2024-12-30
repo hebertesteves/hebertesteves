@@ -6,6 +6,7 @@
 - 😄 Pronome: Ele/Dele
 - 💻 Sou estudante de Análise e Desenvolvimento de Sistemas na FECAP, com formação técnica pela Etec Raposo Tavares, onde liderei o desenvolvimento de um sistema para um projeto social utilizando HTML, CSS, JavaScript, PHP e MySQL. Tenho sólida experiência em desenvolvimento web, banco de dados e integração de hardware com ESP32.
 
+![hebertesteves GitHub stats](https://github-readme-stats.vercel.app/api?username=hebertesteves&show_icons=true&theme=dark&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertesteves&layout=compact&theme=dark&cache_seconds=86400)
 
 <div style="display: inline_block">
