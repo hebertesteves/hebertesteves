@@ -4,7 +4,6 @@
 - 🚀 Busco uma oportunidade como **Desenvolvedor Backend**, onde possa aplicar e evoluir meus conhecimentos técnicos.  
 - 🌱 Estudo **Java** e **Spring Boot**, com foco em me especializar em desenvolvimento backend e contribuir com soluções eficientes em projetos desafiadores.  
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na **FECAP**, com formação técnica pela **Etec Raposo Tavares**, onde liderei o desenvolvimento de um sistema para um projeto social, utilizando **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**.  
-- 🤖 Tenho experiência com **desenvolvimento web**, **banco de dados** e **integração de hardware com ESP32**.  
 - 😄 **Pronome:** Ele/Dele  
 
 ---
