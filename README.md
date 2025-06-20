@@ -9,7 +9,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hebertesteves&show_icons=true&theme=dark&cache_seconds=86400" alt="hebertesteves GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hebertesteves&show_icons=true&theme=dark&cache_seconds=60" alt="hebertesteves GitHub stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertesteves&layout=compact&theme=dark&cache_seconds=86400" alt="Top Langs" />
   <br><br>
   <a href="https://git.io/streak-stats">
