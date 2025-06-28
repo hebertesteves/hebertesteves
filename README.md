@@ -1,4 +1,4 @@
-## 👋 Olá, meu nome é **Hebert Esteves**!
+## 👋🏾 Olá, meu nome é **Hebert Esteves**!
 
 - 🔭 Atualmente sou estagiário na área de **Autorizações de Cartões** no **Bradesco**, atuando na construção de **indicadores de performance** e **análise de dados** com **Excel**, **SAS** e **Power BI** para otimizar a experiência do usuário e a taxa de aprovação de cartões.  
 - 🚀 Busco uma oportunidade como **Desenvolvedor Backend**, onde possa aplicar e evoluir meus conhecimentos técnicos.  
