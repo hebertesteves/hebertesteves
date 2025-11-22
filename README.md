@@ -1,7 +1,6 @@
 ## 👋🏾 Olá, meu nome é **Hebert Esteves**!
 
 - 🔭 Atualmente sou Desenvolvedor Backend Júnior no Bradesco.
-- 🚀 Busco uma oportunidade como **Desenvolvedor Backend**, onde possa aplicar e evoluir meus conhecimentos técnicos.  
 - 🌱 Estudo **Java** e **Spring Boot**, com foco em me especializar em desenvolvimento backend e contribuir com soluções eficientes em projetos desafiadores.  
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na **FECAP**, com formação técnica pela **Etec Raposo Tavares**, onde liderei o desenvolvimento de um sistema para um projeto social, utilizando **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**.  
 - 😄 **Pronome:** Ele/Dele  
