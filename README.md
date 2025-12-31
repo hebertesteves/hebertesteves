@@ -1,6 +1,6 @@
 ## 👋🏾 Olá, meu nome é **Hebert Esteves**!
 
-- 🔭 Atualmente sou Desenvolvedor Backend Júnior no Bradesco.
+- 🔭 Atualmente sou Engenheiro de Software Júnior no Bradesco.
 - 🌱 Estudo **Java** e **Spring Boot**, com foco em me especializar em desenvolvimento backend e contribuir com soluções eficientes em projetos desafiadores.  
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na **FECAP**, com formação técnica pela **Etec Raposo Tavares**, onde liderei o desenvolvimento de um sistema para um projeto social, utilizando **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**.  
 - 😄 **Pronome:** Ele/Dele  
@@ -8,10 +8,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hebertesteves&show_icons=true&theme=dark&cache_seconds=60" alt="hebertesteves GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertesteves&layout=compact&theme=dark&cache_seconds=60" alt="Top Langs" />
-  <br><br>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-kohl-delta.vercel.app?user=hebertesteves&theme=dark" alt="GitHub Streak" />
   </a>
