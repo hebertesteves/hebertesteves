@@ -8,9 +8,22 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-kohl-delta.vercel.app?user=hebertesteves&theme=dark" alt="GitHub Streak" />
-  </a>
+
+  <table>
+    <tr>
+      <td>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hebertesteves&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+      </td>
+      <td>
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=hebertesteves&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertesteves&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+
 </div>
 
 ---
