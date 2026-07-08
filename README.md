@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou Engenheiro de Software Júnior no **Bradesco.**
 - 🌱 Estudo **Java** e **Spring Boot**, com foco em me especializar em desenvolvimento backend e contribuir com soluções eficientes em projetos desafiadores.  
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na **FECAP**, com formação técnica pela **Etec Raposo Tavares**, onde liderei o desenvolvimento de um sistema para um projeto social, utilizando **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**.  
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas** na **FECAP**, com formação técnica pela **Etec Raposo Tavares**.  
 - 😄 **Pronome:** Ele/Dele  
 
 ---
